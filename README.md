@@ -2,10 +2,8 @@
 
 
 
-<!-- Typing SVG Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Aryan+Srivastava;Cybersecurity+Enthusiast+%7C+Full-Stack+Developer;Ethical+Hacker+%7C+Problem+Solver;3rd+Year+CS+Student;Always+learning+%26+building!" alt="Typing SVG" />
-</a>
+<img src="https://readme-portfolio-banner.vercel.app/api?title=Aryan%20Srivastava&subtitle=Cybersecurity%20%7C%20Developer%20%7C%20Explorer&theme=dark&fontSize=28" alt="Aryan Srivastava Banner" />
+
 
 <!-- Short Bio -->
 <p>
