@@ -61,7 +61,7 @@ Building scalable, user-friendly, and secure digital solutions.
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
@@ -73,11 +73,11 @@ Building scalable, user-friendly, and secure digital solutions.
 <td colspan="2" valign="top">
 <h3 align="center">Security Tools</h3>
 <p align="center">
-  <img src="https://img.icons8.com/officel/40/000000/burp-suite.png" alt="Burp Suite"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Burp_Suite_Logo.png/600px-Burp_Suite_Logo.png" alt="Burp Suite" width="40" height="40"/>
   <img src="https://www.wireshark.org/assets/images/wireshark-icon-48x48.png" alt="Wireshark" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/metasploit.png" alt="Metasploit"/>
   <img src="https://img.icons8.com/color/48/000000/kali-linux.png" alt="Kali Linux"/>
-  <img src="https://img.icons8.com/color/48/000000/splunk-logo.png" alt="Splunk"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Splunk_logo.svg" alt="Splunk" width="80" height="25"/>
 </p>
 </td>
 </tr>
@@ -88,9 +88,9 @@ Building scalable, user-friendly, and secure digital solutions.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryxndesigns&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanxsrivastava&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryxndesigns&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanxsrivastava&layout=compact&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aryxndesigns&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aryanxsrivastava&theme=tokyonight" />
 </p>
