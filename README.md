@@ -1,8 +1,7 @@
 <div align="center">
 
 
-
-<img src="https://readme-portfolio-banner.vercel.app/api?title=Aryan%20Srivastava&subtitle=Cybersecurity%20%7C%20Developer%20%7C%20Explorer&theme=dark&fontSize=28" alt="Aryan Srivastava Banner" />
+<h3 align="center">“Code hard, hack harder. Break things to learn.”</h3>
 
 
 <!-- Short Bio -->
