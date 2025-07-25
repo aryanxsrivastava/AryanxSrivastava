@@ -61,7 +61,7 @@ Building scalable, user-friendly, and secure digital solutions.
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
@@ -73,11 +73,11 @@ Building scalable, user-friendly, and secure digital solutions.
 <td colspan="2" valign="top">
 <h3 align="center">Security Tools</h3>
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Burp_Suite_Logo.png/600px-Burp_Suite_Logo.png" alt="Burp Suite" width="40" height="40"/>
-  <img src="https://www.wireshark.org/assets/images/wireshark-icon-48x48.png" alt="Wireshark" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Burp_Suite_Logo.png" alt="Burp Suite" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Logo.svg" alt="Wireshark" width="50" />
   <img src="https://img.icons8.com/color/48/000000/metasploit.png" alt="Metasploit"/>
   <img src="https://img.icons8.com/color/48/000000/kali-linux.png" alt="Kali Linux"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Splunk_logo.svg" alt="Splunk" width="80" height="25"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Splunk_logo.svg" alt="Splunk" width="60" />
 </p>
 </td>
 </tr>
